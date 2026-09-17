@@ -8,6 +8,7 @@ plugins {
     id("org.jetbrains.kotlin.plugin.compose")
 }
 
+
 android {
     namespace = "com.ahmedsamy.purelink"
     compileSdk = 36
