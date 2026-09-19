@@ -8,6 +8,7 @@ PureLink is a powerful, lightweight, and accessibility-first Android utility des
 
 ## 🚀 Key Features
 
+
 ### 🛡️ Privacy & URL Sanitization
 * **Deep Cleaning:** Instantly removes tracking tags like `utm_`, `fbclid`, `gclid`, `si`, and `ref` from shared links.
 * **Smart Unshortener:** Safely expands shortened URLs (e.g., `bit.ly`, `is.gd`) in the background to reveal the true destination before you visit.
