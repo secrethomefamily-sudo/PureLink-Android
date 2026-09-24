@@ -10,7 +10,7 @@ Pure Link is designed with privacy as a priority. **We do not collect, store, or
 
 The app operates primarily on your device. Any data processing (such as URL cleaning) is performed locally.
 
-**Accessibility Services**
+**Accessibility Services***
 
 Pure Link uses the Android AccessibilityService API for a specific, user-initiated purpose:
 1.  To detect when a URL is copied to the clipboard or clicked.
